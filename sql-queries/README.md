@@ -10,3 +10,4 @@
 - [Difference Between WHERE Clause and ON Clause in JOIN](https://www.baeldung.com/sql/join-where-clause-vs-on)
 - [Difference Between HAVING and WHERE in SQL](https://www.baeldung.com/sql/having-vs-where)
 - [How to Check if a Record Exists in SQL](https://www.baeldung.com/sql/record-check-existence)
+- [How to Retrieve Column Names From a Table in SQL](https://www.baeldung.com/sql/find-table-column-names)
